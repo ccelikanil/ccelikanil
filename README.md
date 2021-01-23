@@ -11,8 +11,8 @@
 ## 📫 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/Anıl%20Çelik-Connect%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anilcelik97/)
-  [![Medium Badge](https://img.shields.io/badge/An%C4%B1l%20%C3%87elik-follow%20on%20medium-black?style=for-the-badge&logo=medium)](https://medium.com/@anilcelik)
+[![Linkedin Badge](https://img.shields.io/badge/Anıl%20Çelik-Connect%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anilcelik97/) or 
+[![Medium Badge](https://img.shields.io/badge/An%C4%B1l%20%C3%87elik-follow%20on%20medium-black?style=for-the-badge&logo=medium)](https://medium.com/@anilcelik)
 
 
 ![Profile views](https://gpvc.arturio.dev/0xpr0N3rd?style=plastic)  
