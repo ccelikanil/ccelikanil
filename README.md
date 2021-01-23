@@ -1,6 +1,4 @@
-### Hello there 👋, this is the place that I usually do my dirty stuff
-
-## I like building things but I'm more like a "breaking things" guy. 
+### I like building things but I'm more like a "breaking things" guy. 
 
 ## 📌 GitHub Stats And Top Languages
 
