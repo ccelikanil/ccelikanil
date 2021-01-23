@@ -16,4 +16,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/Anıl%20Celik-Connect%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anilcelik97/) 
 [![Medium Badge](https://img.shields.io/badge/Anıl%20Celik-follow%20on%20medium-black?style=for-the-badge&logo=medium)](https://medium.com/@anilcelik)
 [![Twitter followers](https://img.shields.io/badge/Anıl%20Celik-follow%20on%20twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/ccelikanil)
-[![GitHub followers](https://img.shields.io/badge/An%C4%B1l%20Celik-viewers?style=for-the-badge&logo=github)](https://komarev.com/ghpvc/?username=0xpr0N3rd)
