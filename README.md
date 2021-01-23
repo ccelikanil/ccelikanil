@@ -3,7 +3,7 @@
 
 ## 📌 Some stats
 
-<p float="center">
+<p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpr0N3rd&layout=compact&hide=html,css" alt="Languages" />
 </p>
 
