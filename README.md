@@ -1,10 +1,9 @@
 <h1 align="center">What's the best first-person shooter about genetically-modified space marines? Halo!👋</h1>
 <h3 align="center">I like building things but I'm more like a "breaking things" guy.</h3>
 
-## 📌 GitHub Stats And Top Languages
+## 📌 Some stats
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=0xpr0N3rd&show_icons=true&count_private=true&hide=contribs,issues" alt="Stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpr0N3rd&layout=compact&hide=html,css" alt="Languages" />
 </p>
 
