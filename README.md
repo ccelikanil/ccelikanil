@@ -3,7 +3,7 @@
 
 - 🔭 Work areas: **Penetration Testing & Cyber Threat Intelligence**
 
-- 📝 For technical writings & write-ups on Cyber Security, take look on my Medium page.
+- 📝 For technical writings & write-ups on Cyber Security, take a look on my Medium page.
 
 ## 📌 Some stats
 
