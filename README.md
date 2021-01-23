@@ -1,4 +1,4 @@
-<h1 align="center">What's the best first-person shooter about genetically-modified space marines? Halo!👋</h1>
+<h1 align="center">What's the best first-person shooter about genetically-modified space marines?</h1>
 <h3 align="center">I like building things but I'm more like a "breaking things" guy.</h3>
 
 - 🔭 Work areas: **Penetration Testing & Cyber Threat Intelligence**
