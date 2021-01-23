@@ -9,9 +9,13 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpr0N3rd&layout=compact&hide=html,css" alt="Languages" />
 </p>
 
-<a href="https://medium.com/@anilcelik"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" height=50> Technical writings & write-ups</a>
+
+## 📫 
+
+[![Linkedin Badge](https://img.shields.io/badge/Anıl%20Çelik-follow%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anilcelik97/)
+[![Medium Badge](https://img.shields.io/badge/An%C4%B1l%20%C3%87elik-follow%20on%20medium-black?style=for-the-badge&logo=medium)](https://medium.com/@anilcelik)
+
 
 ![Profile views](https://gpvc.arturio.dev/0xpr0N3rd?style=plastic)  
 ![GitHub followers](https://img.shields.io/github/followers/0xpr0N3rd?style=plastic&logo=github)
 ![Twitter followers](https://img.shields.io/twitter/follow/0xpr0N3rd?style=plastic&logo=twitter)
-![Medium followers](https://
