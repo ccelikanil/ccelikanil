@@ -9,9 +9,9 @@
 </p>
 
 
-- 🔭 I’m currently working on **Penetration Testing & Cyber Threat Intelligence**
+- 🔭 Work areas: **Penetration Testing & Cyber Threat Intelligence**
 
-- 📝 For technical writings & write-ups on Cyber Security: [https://medium.com/@anilcelik](https://medium.com/@anilcelik)
+- 📝 For technical writings & write-ups on Cyber Security, take look on my Medium page.
 
 
 ## 📫 If you want to reach me
