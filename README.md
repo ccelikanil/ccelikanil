@@ -5,7 +5,7 @@
 
 - 📝 For technical writings & write-ups on Cyber Security, take a look on my Medium page.
 
-- 📜 The certificates that I correctly hold: OSWP | (reserved) 
+- 📜 The certificates that I currently hold: OSWP | (reserved) 
 
 ## 📌 Some stats
 
