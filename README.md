@@ -5,8 +5,6 @@
 
 - 🎯 Focused on: Web Application Security, Network & Wireless Network Security
 
-- 🏴 Interests: Exploit Development, Reverse Engineering
-
 - 📝 For technical writings & write-ups on Cyber Security, take a look on my Medium page.
 
 - 📜 Certificates that I currently hold: **OSWP** | *(reserved)* 
