@@ -3,7 +3,7 @@
 
 - 🔭 Work areas: **Penetration Testing & Cyber Threat Intelligence**
 
-- 🎯 Focused on: Web Application Security, Network & Wireless Network Security
+- 🎯 Focused on: Web Application Security, Network Security & Wireless Network Security
 
 - 📝 For technical writings & write-ups on Cyber Security, take a look on my Medium page.
 
