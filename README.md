@@ -1,9 +1,9 @@
 <h1 align="center">What's the best first-person shooter about genetically-modified space marines?</h1>
 <h3 align="center">I like building things but I'm more like a "breaking things" guy.</h3>
 
-- 🔭 Work areas: **Penetration Testing & Cyber Threat Intelligence - *soon Exploit Development***
+- 🔭 Work areas: **Penetration Testing, Cyber Threat Intelligence & Exploit Development**
 
-- 🎯 Focused on: Web Application Security, Network Security & Wireless Network Security
+- 🎯 Focused on: Exploit Development
 
 - 📝 For technical writings & write-ups on Cyber Security, take a look on my Medium page.
 
