@@ -7,7 +7,7 @@
 
 - 📝 For technical writings & write-ups on Cyber Security, take a look on my Medium page.
 
-- 📜 Certificates that I currently hold: **OSCP** | **OSWP**
+- 📜 Certificates that I currently hold: **OSCP** | **OSWP** | ***Working on OSEP***
 
 ## 📌 Some stats
 
