@@ -3,7 +3,7 @@
 
 - 🔭 Work areas: **Penetration Testing, Cyber Threat Intelligence & Exploit Development**
 
-- 🎯 Focused on: Penetration Testing & Exploit Development
+- 🎯 Focused on: Malware & Exploit Development
 
 - 📝 For technical writings & write-ups about cybersecurity, take a look on my [Medium](https://medium.com/@anilcelik) page.
 
