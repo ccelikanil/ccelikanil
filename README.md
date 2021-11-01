@@ -7,7 +7,7 @@
 
 - 📝 For technical writings & write-ups about cybersecurity, take a look on my [Medium](https://medium.com/@anilcelik) page.
 
-- 📜 Certificates that I currently hold: **[OSCP](https://www.credly.com/badges/77d94836-ad87-4bf1-a0a8-d246167d803b/)** | **[OSWP](https://www.credly.com/badges/34e26805-c85b-46da-9cd0-a9205ff27ce7)**
+- 📜 Certificates that I currently hold: **[OSCP](https://www.credly.com/badges/77d94836-ad87-4bf1-a0a8-d246167d803b/)** | **[OSWP](https://www.credly.com/badges/34e26805-c85b-46da-9cd0-a9205ff27ce7)** | **[PenTest+ ce](https://www.credly.com/badges/4d152b92-dc62-4e23-a932-9c6b618a1012)**
 ## 📌 Some stats
 
 <p align="center">
