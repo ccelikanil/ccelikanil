@@ -11,7 +11,7 @@
 ## 📌 Some stats
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpr0N3rd&layout=compact&hide=html,css" alt="Languages" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccelikanil&layout=compact&hide=html,css" alt="Languages" />
 </p>
 
 ## 📫 If you want to reach me
