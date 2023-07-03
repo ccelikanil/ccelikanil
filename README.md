@@ -8,7 +8,7 @@
 - 📝 For technical writings & write-ups about cybersecurity, take a look on my [Medium](https://medium.com/@anilcelik) page.
 
 - 📜 Certificates that I currently hold: **[OSCP](https://www.credential.net/3e3797bc-3f9e-44a1-9ed5-ff9d7a23cbeb)** | **[OSWP](https://www.credential.net/0cbef274-985e-42d8-ae50-c7fc3bb5d4c0#gs.71n5bt)** | **[PenTest+ ce](https://www.credly.com/badges/4d152b92-dc62-4e23-a932-9c6b618a1012)**
-- 🎩 CVEs: **[CVE-2023-24693](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24693)** | **[CVE-2023-33407](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-33407)** | **CVE-2023-3319** | **CVE-2023-3374** | **CVE-2023-3375**
+- 🎩 CVEs: **[CVE-2023-24693](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24693)** | **[CVE-2023-33407](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-33407)** | **[CVE-2023-3319](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3319)** | **[CVE-2023-3374](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3374)** | **[CVE-2023-3375](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3375)**
 
 ## 📌 Some stats
 
