@@ -3,7 +3,7 @@
 
 - 🔭 Work areas: **Penetration Testing & Security Research**
 
-- 🎯 Focused on: Malware Development & Binary Exploitation
+- 🎯 Focused on: Malware Research & Security Research
 
 - 📝 For technical writings & write-ups about cybersecurity, take a look on my [Medium](https://medium.com/@anilcelik) page.
 
