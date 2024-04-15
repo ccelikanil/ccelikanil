@@ -1,5 +1,4 @@
-<h1 align="center">What's the best first-person shooter about genetically-modified space marines?</h1>
-<h3 align="center">I like building things but I'm more of a "breaking things" guy.</h3>
+<h1 align="center">Hi there.</h1>
 
 - 🔭 Work areas: **Penetration Testing & Security Research**
 
