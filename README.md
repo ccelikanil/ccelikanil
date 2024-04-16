@@ -1,6 +1,6 @@
 <h1 align="center">Hi there.</h1>
 
-<p align="center">My name is Anıl Çelik, I'm a Computer Engineer/Scientist, currently a MSc. Student on Information Security Engineering and working as a Cybersecurity Engineer (Red Team)</p>
+<p align="center">My name is Anıl Çelik, I'm a Computer Engineer/Scientist, currently a student on Information Security Engineering (MSc.) and working as a Cybersecurity Engineer @ HAVELSAN (HVLRED)</p>
 
 - 🔭 Work areas: **Penetration Testing & Security Research**
 
