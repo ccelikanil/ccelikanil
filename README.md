@@ -1,5 +1,7 @@
 <h1 align="center">Hi there.</h1>
 
+<p align="center">My name is Anıl Çelik, I'm a Computer Engineer/Scientist, currently a MSc. Student on Information Security Engineering and working as a Cybersecurity Engineer (Red Team)</p>
+
 - 🔭 Work areas: **Penetration Testing & Security Research**
 
 - 🎯 Focused on: Malware Research & Security Research
