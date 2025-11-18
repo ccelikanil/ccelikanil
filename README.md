@@ -1,6 +1,6 @@
 <h1 align="center">Hi there.</h1>
 
-<p align="center">My name is Anıl Çelik, I'm a Computer Engineer/Scientist, currently a student on Information Security Engineering (MSc.) and working as a Cyber Security Engineer (Red Teamer) @ HAVELSAN (HVLRED)</p>
+<p align="center">My name is Anıl Çelik, I'm a Computer Engineer/Scientist, ~~currently a student~~ had enough with it and dropped the MSc on Information Security Engineering w/3.90 GPA after submitting my thesis and working as a Cyber Security Engineer (Red Teamer) @ HAVELSAN (HVLRED)</p>
 
 - 🔭 Interested in: Red Teaming, Purple Teaming, Security Research, Malware Research
 
