@@ -1,6 +1,6 @@
 <h1 align="center">Hi there.</h1>
 
-<p align="center">My name is Anıl Çelik, I'm a Computer Engineer/Scientist and working as a Cyber Security Engineer (Red Teamer) @ HAVELSAN (HVLRED)</p>
+<p align="center">My name is Anıl Çelik, I'm a Computer Engineer/Scientist and a Cyber Security Researcher </p>
 
 - 🔭 Interested in: Red Teaming, Purple Teaming, Security Research & Offensive Tradecraft
 
